@@ -1,8 +1,9 @@
 {
   "openapi": "3.0.1",
   "info": {
-    "title": "ChallengeMottu",
-    "version": "1.0"
+    "title": "ChallengeMottu API",
+    "description": "Documentação da API REST para o sistema Floodian— Sistema Inteligente de Monitoramento e Alerta de Enchentes\n\nSistema IoT para monitoramento em tempo real do nível de água e precipitação em áreas urbanas e rurais, visando prevenção de desastres relacionados a enchentes. Utiliza sensores instalados em pontos estratégicos que enviam dados via MQTT para um gateway que processa as informações e gera alertas conforme regras configuradas. A API RESTful disponibiliza endpoints para consulta de sensores, cadastro de usuarios e sensores. A solução conta ainda com um aplicativo para notificação imediata, além de alarmes locais para alertar comunidades. O sistema contribui para a segurança pública, engajamento comunitário e apoio a políticas públicas, sendo escalável para ampliação a novas regiões.",
+    "version": "v1"
   },
   "paths": {
     "/api/Sensors": {
