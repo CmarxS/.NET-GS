@@ -31,7 +31,7 @@ Execute os seguintes comandos no terminal para adicionar as dependências necess
 
 ```bash
 dotnet tool install --global dotnet-ef
-dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+dotnet add package Oracle.EntityFrameworkCore
 dotnet add package Microsoft.EntityFrameworkCore.Tools
 ```
 
