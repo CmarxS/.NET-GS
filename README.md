@@ -62,7 +62,7 @@ Base URL: `http://localhost:5030/api`
 |--------|-----------------|-------------------------------|-----------------------------------------------------------------------------|
 | GET    | /sensors        | Lista todos os sensores       | —                                                                           |
 | GET    | /sensors/{id}   | Retorna sensor por ID         | —                                                                           |
-| POST   | /sensors        | Cria um novo sensor           | `{ "numeroSerie": "SENSOR001", "limiteAlerta": 80, "intervaloHoras": 6, "localizacaoId": 1 }` |
+| POST   | /sensors        | Cria um novo sensor           | `{ "numeroSerie": "SENSOR001", "limiteAlerta": 80, "intervaloHoras": 6 }` |
 | PUT    | /sensors/{id}   | Atualiza sensor existente     | Mesmo schema do POST                                                        |
 | DELETE | /sensors/{id}   | Remove um sensor              | —                                                                           |
 
