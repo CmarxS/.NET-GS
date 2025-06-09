@@ -1,8 +1,8 @@
 
 # Floodian API
-**RM555997 - Caio Marques**  
-**RM558640 - Caio Amarante**
-**RM556325 - Felipe Camargo Revolta e Souza**  
+- **RM555997 - Caio Marques**  
+- **RM558640 - Caio Amarante**
+- **RM556325 - Felipe Camargo Revolta e Souza**  
 
 ## Links
 
